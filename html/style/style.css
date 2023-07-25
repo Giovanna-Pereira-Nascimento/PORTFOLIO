@@ -10,6 +10,7 @@
     --fonte-primária: 'Krona One', sans-serif;
     --fonte-secundária: 'Montserrat', sans-serif;
     --fonte-terciária: 'Satisfy', cursive;
+
 }
 
 * {
@@ -30,12 +31,12 @@ body
 }
 
 .cabeçalho {
-    background: var(--cor-terciária);
+    background: var(--cor-secundária);
     padding: 2% 0% 0% 15%;
 }
 
 .cabeçalho_menu_link {
-    font-family:var(--fonte-terciária);
+    font-family:var(--fonte-secundária);
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-primária);
