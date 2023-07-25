@@ -31,7 +31,7 @@ body
 }
 
 .cabeçalho {
-    background: var(--cor-secundária);
+    background: var(--cor-terciária);
     padding: 2% 0% 0% 15%;
 }
 
