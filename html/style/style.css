@@ -137,6 +137,7 @@ body
 
 .destaque_explicação_botões {
     color: var(--cor-secundária);
+    align: justify;
 }
 
 
